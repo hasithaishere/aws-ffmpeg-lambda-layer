@@ -1,6 +1,4 @@
-<p align='center'> <img src="docs/banner-min.jpg"/></p>
-
-<h1  align='center'>FFmpeg/FFprobe AWS Lambda Layer (Based on Amazon Linux 2 AMIs)</h1>
+# FFmpeg/FFprobe AWS Lambda Layer (Based on Amazon Linux 2 AMIs)
 
 This repository hosts a custom AWS Lambda layer that includes static versions of FFmpeg and FFprobe utilities from the FFmpeg Linux package. These utilities are compatible with both Amazon Linux 2.x and Amazon Linux 1.x instances.
 
