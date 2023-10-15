@@ -1,4 +1,4 @@
-<p align='center'> <img src="docs/banner-min.jpg"/></p>
+<p align='center'> <img src="https://user-images.githubusercontent.com/4580975/275339760-e9e95dcd-afd5-4ed0-9d3f-f739bd9e9a4a.jpg"/></p>
 
 <h1  align='center'>FFmpeg/FFprobe AWS Lambda Layer (Based on Amazon Linux 2 AMIs)</h1>
 
@@ -55,7 +55,7 @@ It return the latest layer ARN, please check following screenshot.
 arn:aws:lambda:ap-southeast-1:<AWS-ACCOUNT-ID>:layer:ffmpeg-lambda-layer:1  
 ```
 
-<p align='center'> <img src="docs/template-output.png"/></p> </p> 
+<p align='center'> <img src="https://user-images.githubusercontent.com/4580975/275339769-a87fc0c9-2d72-4d7b-b341-69f051cda034.png"/></p> </p> 
 
 You can use this ARN in your serverless function as following:
 
